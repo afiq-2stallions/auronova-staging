@@ -1,1 +1,26 @@
 wp-content/updraft/
+
+# WordPress core (don't track core files)
+/wp-config.php
+/.htaccess
+/error_log
+/wp-admin/error_log
+/wordfence-waf.php
+
+# Uploads (user content, not code)
+/wp-content/uploads/
+
+# Cache
+/wp-content/cache/
+/wp-content/wflogs/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env.local
