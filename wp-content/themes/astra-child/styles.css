@@ -1,0 +1,153 @@
+jQuery(document).ready(function() {
+
+    jQuery('svg.e-font-icon-svg.e-fas-star-of-life').closest('.elementor-icon-box-wrapper').addClass('section-label');
+    
+    class scrollTypingEffect {
+		typeWriter() {
+			const typingSpeed = 350;
+
+			const elements = document.querySelectorAll(".elementor-icon-box-wrapper.section-label");
+
+			elements.forEach(element => {
+				const parent_element = element.closest('.elementor-element.e-parent[data-element_type="container"]');
+				const element_label = element.querySelector("p.elementor-icon-box-title span");
+
+				const txt = element_label.textContent;
+				let i = 0;
+				element_label.textContent = '';
+
+				function type() {
+					if (i < txt.length) {
+						element_label.textContent = txt.substring(0, i + 1);
+						i++;
+						setTimeout(type, typingSpeed);
+					}
+				}
+
+				function handleScroll() {
+					const rect = parent_element.getBoundingClientRect();
+					const windowHeight = window.innerHeight;
+
+					if (rect.top >= 0 && rect.top < windowHeight / 2) {
+						type();
+					}
+				}
+
+				window.addEventListener('scroll', handleScroll);
+				handleScroll();
+			});
+		}
+	}
+
+	new scrollTypingEffect().typeWriter();
+
+    const currentPath = window.location.pathname;
+	
+	if (currentPath.split('/').filter(Boolean)[0] === 'blog') {
+		jQuery('header .menu-item#menu-item-2192').addClass('current-menu-item');
+		jQuery('header .menu-item.menu-item-2220').addClass('current-menu-item');
+	}
+	
+	if (currentPath.split('/').filter(Boolean)[0] === 'product') {
+		jQuery('header .menu-item#menu-item-1048').addClass('current-menu-item');
+		jQuery('header .menu-item.menu-item-2148').addClass('current-menu-item');
+	}
+	
+	if (currentPath.split('/').filter(Boolean)[0] === 'service') {
+		jQuery('header .menu-item#menu-item-27').addClass('current-menu-item');
+		jQuery('header .menu-item.menu-item-2146').addClass('current-menu-item');
+	}
+
+    function changeReadMoreTxt(text) {
+        text.forEach(link => {
+          link.childNodes.forEach(node => {
+            if (node.nodeType === Node.TEXT_NODE && node.textContent.includes('Read Post')) {
+              node.textContent = ' Read Post';
+            }
+          });
+        });
+    }
+    
+    function footerScroll() {
+      if (window.innerWidth < 767) {
+          let footer_bottom_container = document.querySelector('footer.site-footer .site-below-footer-wrap');
+          const scroll_to_top = document.querySelector('#ast-scroll-top');
+          const sectionRect = footer_bottom_container.getBoundingClientRect();
+          const windowHeight = window.innerHeight;
+
+            if (sectionRect.top >= 0 && sectionRect.top < windowHeight) {
+                // scroll_to_top.classList.add('jump');
+                console.log('Y');
+            } else {
+                console.log('N');
+                // scroll_to_top.classList.remove('jump');
+            }
+        }
+    }
+
+    
+    window.addEventListener('scroll', footerScroll);
+    window.addEventListener('resize', footerScroll);
+
+    function scrollTopShow() {
+		const footer = document.querySelector('footer.site-footer');
+		const rect = footer.getBoundingClientRect();
+		const windowHeight = window.innerHeight;
+
+		if (rect.top < windowHeight && rect.bottom > 0) {
+			jQuery('#ast-scroll-top').addClass('active');
+		} else {
+			jQuery('#ast-scroll-top').removeClass('active');
+		}
+	}
+	
+	window.addEventListener('scroll', scrollTopShow);
+	scrollTopShow();
+	
+	document.querySelectorAll('body.search.search-results .ast-row article').forEach(child => {
+          // Check if taxonomy span already exists
+          const hasTaxonomy = child.querySelector('.ast-blog-single-element.ast-taxonomy-container.cat-links');
+
+          if (!hasTaxonomy) {
+            // Get the href from the read-more link
+            const readMoreLink = child.querySelector('.ast-read-more-container.read-more a');
+            const href = readMoreLink ? readMoreLink.getAttribute('href') : '#';
+
+            const parent_content = child.querySelector('.post-content.ast-grid-common-col');
+
+            // // Build the taxonomy span
+            const taxonomySpan = document.createElement('span');
+            taxonomySpan.className = 'ast-blog-single-element ast-taxonomy-container cat-links default';
+            taxonomySpan.innerHTML = `<a href="${href}" rel="category tag">Page</a>`;
+
+            // parent_content.insertAdjacentHTML('afterbegin', taxonomySpan);
+            
+            // Insert it before the <h2> title
+            const title = parent_content.querySelector('h2.entry-title');
+            if (title) {
+                parent_content.insertBefore(taxonomySpan, title);
+            } else {
+                parent_content.prepend(taxonomySpan);
+            }
+        }
+    });
+
+    changeReadMoreTxt(document.querySelectorAll('body.archive.category .site-main .post.type-post .read-more a'));
+    changeReadMoreTxt(document.querySelectorAll('body.search.search-results .ast-row article .post-content p.ast-read-more-container.read-more a'));
+    
+    const calendar_svg = `<svg aria-hidden="true" class="e-font-icon-svg e-fa-calendar" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M12 192h424c6.6 0 12 5.4 12 12v260c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V204c0-6.6 5.4-12 12-12zm436-44v-36c0-26.5-21.5-48-48-48h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v36c0 6.6 5.4 12 12 12h424c6.6 0 12-5.4 12-12z"></path></svg>`;
+    jQuery('body.archive.category .site-main .post.type-post .entry-meta').prepend(calendar_svg);
+    jQuery('body.search.search-results .ast-row article header.entry-header .entry-meta').prepend(calendar_svg);
+
+    function textExcerpt(text) {
+        text.forEach(p => {
+            const words = p.textContent.trim().split(/\s+/);
+            if (words.length > 15) {
+                p.textContent = words.slice(0, 15).join(' ') + '...';
+            }
+        });
+    }
+    
+    textExcerpt(document.querySelectorAll('body.archive.category .site-main .post.type-post .ast-excerpt-container p'));
+    textExcerpt(document.querySelectorAll('body.search.search-results .ast-row article .ast-excerpt-container p'));
+});

@@ -1,0 +1,22 @@
+# START RANKMATHSEO BLOCK
+# ---------------------------
+
+User-agent: GPTBot
+Allow: /
+User-agent: baiduspider
+Disallow: /
+User-agent: naverbot
+Disallow: /
+User-agent: yeti
+Disallow: /
+User-agent: *
+Disallow: /cgi-bin/
+User-agent: *
+Disallow: /wp-login.php
+Disallow: /wp-admin/
+Crawl-delay: 600
+
+Sitemap: http://auronova.2stallions.network/sitemap_index.xml
+
+# ---------------------------
+# END RANKMATHSEO BLOCK

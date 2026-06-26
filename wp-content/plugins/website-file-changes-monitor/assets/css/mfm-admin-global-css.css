@@ -1,0 +1,3 @@
+.toplevel_page_file-monitor-admin + .wp-submenu .awaiting-mod {
+  display: none !important;
+}

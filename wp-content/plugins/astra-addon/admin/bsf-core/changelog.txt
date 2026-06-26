@@ -1,0 +1,30 @@
+### Version - 1.29.14
+# New: Added license expiry helper functions and store/clear `expires` field from API response.
+
+### Version - 1.29.13
+# Fix: Updated textdomain from 'bsf' to 'bsf-core' to align with plugin slug.
+
+### Version - 1.29.12
+# Security Fix: Added nonce verification and capability checks to `reset-bsf-users` and `remove-bundled-products` GET parameter handlers to prevent CSRF attacks.
+
+### Version - 1.29.11
+# Improvement: Absolute path for file inclusion.
+
+### Version - 1.21
+# Support for beta updates of the products.
+
+### Version - 1.19
+
+- License Manager v2.0 - Allow plugins to individually set the license form.
+- Update themes and plugins with WordPress's transients. so support for WP-CLI and any other website management tools.
+- New License manager API.
+- Improvement: Force check product update now works when WordPress updates are force checked.
+- Slight redesign of help and debug settings screens.
+- Support for white label with filters.
+- Option to move Brainstorm registration menu in settings.
+- Hide purchase key when it is validated.
+- Remove use of deprecated 'mysql_' functions.
+- Allow users to skip brainstorm account registration.
+- Allow plugins/themes to completely hide the screen for Brainstorm Registration.
+- Allow using staging API server for development.
+- Fix: Occasional PHP fatal errors when using the child theme.

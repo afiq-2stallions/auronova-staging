@@ -1,0 +1,1158 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/Components/Dashboard/ExtendWebsite.jsx:56
+msgid "Extend Your Website"
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:144
+msgid "Activating.."
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:156
+msgid "Activated"
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:220
+msgid "Activate Theme"
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:224
+msgid "Are you sure you want to switch your current theme to Astra?"
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:229
+msgid "Yes"
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:232
+msgid "Close"
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:269
+msgid "Visit Site"
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:271
+#: src/Components/Dashboard/License.jsx:201
+#: src/Components/Settings/MyAccount.jsx:230
+msgid "Activate"
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:272
+msgid "Install & Activate"
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:72
+msgid "Installing.."
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:80
+msgid "Installed"
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:91
+msgid "Install"
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:94
+msgid "Theme Installation failed, Please try again later."
+msgstr ""
+
+#: src/Components/Dashboard/ExtendWebsiteWidget.jsx:95
+msgid "Plugin Installation failed, Please try again later."
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:104
+#: src/Components/Settings/MyAccount.jsx:137
+msgid ""
+"Activate %s Pro to get professional support and automatic updates from your "
+"WordPress dashboard."
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:120
+#: src/Components/Settings/MyAccount.jsx:153
+msgid ""
+"to get professional support and automatic updates from your WordPress "
+"dashboard."
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:129
+#: src/Components/Settings/MyAccount.jsx:162
+msgid "Please enter your valid license key below to activate %s Pro!"
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:14
+#: src/Components/Settings/MyAccount.jsx:17
+msgid "Your license is active."
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:14
+#: src/Components/Settings/MyAccount.jsx:17
+msgid "Paste your license key here"
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:143
+#: src/Components/Settings/MyAccount.jsx:175
+msgid "Click Here"
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:148
+#: src/Components/Settings/MyAccount.jsx:177
+msgid "to find your license key."
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:200
+#: src/Components/Dashboard/OnboardingWidgets.jsx:161
+#: src/Components/Settings/MyAccount.jsx:229
+#: src/Components/Widgets/Features/FeatureWidgets.jsx:269
+msgid "Deactivating..."
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:200
+#: src/Components/Dashboard/OnboardingWidgets.jsx:149
+#: src/Components/Settings/MyAccount.jsx:229
+#: src/Components/Widgets/Features/FeatureWidgets.jsx:214
+msgid "Activating..."
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:201
+#: src/Components/Settings/MyAccount.jsx:230
+msgid "Deactivate"
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:218
+#: src/Components/Settings/MyAccount.jsx:247
+msgid "Get another license?"
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:219
+#: src/Components/Settings/Integrations.jsx:1139
+#: src/Components/Settings/MyAccount.jsx:248
+msgid "Need Help?"
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:39
+#: src/Components/Settings/MyAccount.jsx:42
+msgid "License successfully validated!"
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:42
+#: src/Components/Settings/MyAccount.jsx:45
+msgid "Please enter a valid license key!"
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:43
+#: src/Components/Settings/MyAccount.jsx:46
+msgid "Enter a valid license key!"
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:63
+#: src/Components/Settings/MyAccount.jsx:66
+msgid "License successfully deactivated!"
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:67
+#: src/Components/Settings/MyAccount.jsx:70
+msgid "An error occurred while deactivating license."
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:90
+#: src/Components/Settings/MyAccount.jsx:123
+msgid "Your License"
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:90
+#: src/Components/Settings/MyAccount.jsx:123
+msgid "License not active"
+msgstr ""
+
+#: src/Components/Dashboard/License.jsx:94
+#: src/Components/Settings/MyAccount.jsx:127
+msgid "You are using %s Pro!"
+msgstr ""
+
+#: src/Components/Dashboard/OnboardingWidgets.jsx:137
+msgid "WIDGETS"
+msgstr ""
+
+#: src/Components/Dashboard/OnboardingWidgets.jsx:149
+#: src/Components/Widgets/Features/FeatureWidgets.jsx:214
+msgid "Activate All"
+msgstr ""
+
+#: src/Components/Dashboard/OnboardingWidgets.jsx:161
+#: src/Components/Widgets/Features/FeatureWidgets.jsx:269
+msgid "Deactivate All"
+msgstr ""
+
+#: src/Components/Dashboard/QuickAccess.js:122
+msgid "Request a Feature"
+msgstr ""
+
+#: src/Components/Dashboard/QuickAccess.js:20
+msgid "Quick Access"
+msgstr ""
+
+#: src/Components/Dashboard/QuickAccess.js:53
+msgid "VIP Priority Support"
+msgstr ""
+
+#: src/Components/Dashboard/QuickAccess.js:74
+msgid "Knowledge Base"
+msgstr ""
+
+#: src/Components/Dashboard/QuickAccess.js:90
+msgid "Help Centre"
+msgstr ""
+
+#: src/Components/Dashboard/QuickSettings.jsx:39
+msgid "Quick Settings"
+msgstr ""
+
+#: src/Components/Dashboard/QuickSettings.jsx:91
+msgid "Configure"
+msgstr ""
+
+#: src/Components/Dashboard/TemplateSection.js:65
+msgid "Build Websites 10x Faster with Templates"
+msgstr ""
+
+#: src/Components/Dashboard/TemplateSection.js:67
+msgid ""
+"Choose from our professionally designed websites to build your site faster, "
+"with easy customization options."
+msgstr ""
+
+#: src/Components/Dashboard/TemplateSection.js:82
+msgid "Explore Templates"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:10
+msgid "Video Tutorial 1"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:100
+msgid "Video Tutorial 19"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:105
+msgid "Video Tutorial 20"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:110
+msgid "Video Tutorial 21"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:115
+msgid "Video Tutorial 22"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:120
+msgid "Video Tutorial 23"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:125
+msgid "Video Tutorial 24"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:130
+msgid "Video Tutorial 25"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:135
+msgid "Video Tutorial 26"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:140
+msgid "Video Tutorial 27"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:145
+msgid "Video Tutorial 28"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:15
+msgid "Video Tutorial 2"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:150
+msgid "Video Tutorial 29"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:20
+msgid "Video Tutorial 3"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:222
+msgid "Video Tutorials"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:25
+msgid "Video Tutorial 4"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:30
+msgid "Video Tutorial 5"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:35
+msgid "Video Tutorial 6"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:40
+msgid "Video Tutorial 7"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:45
+msgid "Video Tutorial 8"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:50
+msgid "Video Tutorial 9"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:55
+msgid "Video Tutorial 10"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:60
+msgid "Video Tutorial 11"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:65
+msgid "Video Tutorial 12"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:70
+msgid "Video Tutorial 13"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:75
+msgid "Video Tutorial 14"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:80
+msgid "Video Tutorial 15"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:85
+msgid "Video Tutorial 16"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:90
+msgid "Video Tutorial 17"
+msgstr ""
+
+#: src/Components/Dashboard/VideoTutorials.jsx:95
+msgid "Video Tutorial 18"
+msgstr ""
+
+#: src/Components/Dashboard/WelcomeContainer.js:120
+#: src/Components/Onboarding/Build.jsx:190
+msgid "Create New Page"
+msgstr ""
+
+#: src/Components/Dashboard/WelcomeContainer.js:24
+msgid "Hello,"
+msgstr ""
+
+#: src/Components/Dashboard/WelcomeContainer.js:27
+msgid ""
+"Effortlessly design modern websites with  using our powerful range of "
+"widgets & features. Get started by selecting an option based on your needs."
+msgstr ""
+
+#: src/Components/Dashboard/WelcomeContainer.js:61
+#: src/Components/Onboarding/Build.jsx:132
+msgid "Create Header/Footer"
+msgstr ""
+
+#: src/Components/Dashboard/WidgetItem.jsx:121
+msgid "View Demo"
+msgstr ""
+
+#: src/Components/Dashboard/WidgetItem.jsx:135
+#: src/Components/Settings/Branding.jsx:137
+msgid "Read Documentation"
+msgstr ""
+
+#: src/Components/Dashboard/Widgets.jsx:70
+msgid "Popular Widgets & Features"
+msgstr ""
+
+#: src/Components/Dashboard/Widgets.jsx:73
+msgid "View All"
+msgstr ""
+
+#: src/Components/Dashboard/WidgetsOnboarding.jsx:108
+msgid "Back"
+msgstr ""
+
+#: src/Components/Dashboard/WidgetsOnboarding.jsx:121
+msgid "Skip"
+msgstr ""
+
+#: src/Components/Dashboard/WidgetsOnboarding.jsx:137
+msgid " Continue Setup"
+msgstr ""
+
+#: src/Components/NavMenu.js:120
+msgid "Dashboard"
+msgstr ""
+
+#: src/Components/NavMenu.js:136
+msgid "Header & Footer"
+msgstr ""
+
+#: src/Components/NavMenu.js:146
+msgid "Widgets"
+msgstr ""
+
+#: src/Components/NavMenu.js:155
+msgid "Settings"
+msgstr ""
+
+#: src/Components/NavMenu.js:168
+msgid "PRO"
+msgstr ""
+
+#: src/Components/NavMenu.js:178
+msgid "Version"
+msgstr ""
+
+#: src/Components/NavMenu.js:226
+msgid "Useful Resources"
+msgstr ""
+
+#: src/Components/NavMenu.js:237
+msgid "Getting Started"
+msgstr ""
+
+#: src/Components/NavMenu.js:248
+msgid "How to use widgets"
+msgstr ""
+
+#: src/Components/NavMenu.js:262
+msgid "How to use features"
+msgstr ""
+
+#: src/Components/NavMenu.js:276
+msgid "How to use templates"
+msgstr ""
+
+#: src/Components/NavMenu.js:290
+msgid "Contact us"
+msgstr ""
+
+#: src/Components/NavMenu.js:73
+msgid "What's New?"
+msgstr ""
+
+#: src/Components/Onboarding/Build.jsx:216
+msgid "Go To Dashboard"
+msgstr ""
+
+#: src/Components/Onboarding/Build.jsx:53
+msgid "You're all set!🚀"
+msgstr ""
+
+#: src/Components/Onboarding/Build.jsx:59
+msgid ""
+"Start creating headers, footers, or pages with UAE and take your website to "
+"the next level"
+msgstr ""
+
+#: src/Components/Onboarding/Build.jsx:66
+msgid ""
+"Start creating amazing designs with UAE and take your website to the next "
+"level"
+msgstr ""
+
+#: src/Components/Onboarding/Build.jsx:74
+msgid "Here’s how to get started:"
+msgstr ""
+
+#: src/Components/Onboarding/Build.jsx:79
+msgid "Click on “Create” button"
+msgstr ""
+
+#: src/Components/Onboarding/Build.jsx:80
+msgid ""
+"Use the Elementor editor to customize your header, footer, page or post "
+"according to your preferences"
+msgstr ""
+
+#: src/Components/Onboarding/Build.jsx:81
+msgid "Use UAE widgets for your designs"
+msgstr ""
+
+#: src/Components/Onboarding/Build.jsx:86
+msgid "Click on “Create New Page” button"
+msgstr ""
+
+#: src/Components/Onboarding/Build.jsx:87
+msgid ""
+"Use the Elementor editor to customize your page/post according to your "
+"preferences"
+msgstr ""
+
+#: src/Components/Onboarding/Build.jsx:88
+msgid "Use UAE widgets to design your pages."
+msgstr ""
+
+#: src/Components/Onboarding/Build.jsx:89
+msgid "Click “Publish” to make it live"
+msgstr ""
+
+#: src/Components/Onboarding/Welcome.jsx:11
+msgid "Thank You For Choosing"
+msgstr ""
+
+#: src/Components/Onboarding/Welcome.jsx:16
+msgid "Ultimate Addons for Elementor"
+msgstr ""
+
+#: src/Components/Onboarding/Welcome.jsx:23
+msgid ""
+"We're excited to have you onboard. Get ready to create stunning headers, "
+"footers, and custom blocks with ease while keeping your website lightweight "
+"and fast."
+msgstr ""
+
+#: src/Components/Onboarding/Welcome.jsx:56
+msgid "Let's Get Started"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:107
+#: src/Components/Settings/UsageTracking.jsx:33
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:112
+msgid "Error saving settings. Please try again."
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:131
+#: src/Components/Settings/Settings.jsx:94
+msgid "White Label"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:147
+#: src/Components/Settings/Integrations.jsx:1258
+msgid "Saving..."
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:147
+#: src/Components/Settings/Integrations.jsx:1258
+msgid "Save"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:162
+msgid "Plugins Details"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:162
+msgid ""
+"You can change the author name and plugin details that are displayed in the "
+"WordPress backend."
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:168
+msgid "Author:"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:174
+msgid "Brainstorm Force"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:190
+msgid "Author URL:"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:196
+msgid "https://www.brainstormforce.com"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:213
+msgid "Plugin Name:"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:219
+msgid "Ultimate Addons"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:234
+msgid "Plugin Short Name:"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:240
+msgid "UAE"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:256
+msgid "Plugin Description:"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:262
+msgid "Ultimate Addons is a premium extension for Elementor..."
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:280
+msgid "Replace or Hide Logo"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:280
+msgid ""
+"Enable this option to hide the default logo or replace it with your own "
+"logo. (Note: To hide the logo, leave the logo URL field empty.)"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:292
+msgid "Enter logo URL to replace"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:294
+msgid "Replace Plugin Logo URL:"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:300
+msgid "https://www.example.com/logo.svg"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:317
+msgid "Hide White Label Settings"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:317
+msgid ""
+"Enabling this option will hide the White Label settings. To access it "
+"again, re-activate the plugin."
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:330
+msgid "Elementor Editor Area"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:332
+msgid "Show Help Links"
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:332
+msgid "Display internal help links in widget editor area."
+msgstr ""
+
+#: src/Components/Settings/Branding.jsx:52
+msgid "Error fetching settings. Please try again."
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1012
+msgid ""
+"The MaxMind license key is invalid. If you have recently created this key, "
+"you may need to wait for it to become active."
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1032
+msgid "Twitter Feed"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1036
+msgid ""
+"Note: To display your Twitter Feed on your website, you'll need to acquire "
+"Twitter's basic plan and obtain your Twitter Consumer Key and Consumer "
+"Secret Key. For guidance on obtaining these keys, "
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1058
+msgid "Consumer Key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1067
+msgid "Enter Twitter Consumer Key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1087
+msgid "Consumer Secret"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1096
+msgid "Enter Twitter Consumer Secret"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1128
+msgid "Instagram Feed - Instagram Product API Details"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1132
+msgid ""
+"Note: This setting is required if you wish to use Instagram Feed in your "
+"website. "
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1154
+msgid "App ID"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1164
+msgid "Enter Instagram App ID"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1184
+msgid "App Secret"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1194
+msgid "Enter Instagram App Secret"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1216
+msgid "Access Token"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1229
+msgid "Refreshing token..."
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1229
+msgid "Refresh Access Token"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:1237
+msgid "Enter Instagram Access Token"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:208
+#: src/Components/Settings/Settings.jsx:114
+msgid "Integrations"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:244
+msgid "Google Map"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:254
+msgid "API Key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:258
+msgid ""
+"Note: This setting is required if you wish to use Google Map in your "
+"website. "
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:277
+msgid "Paste your API Key here"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:299
+msgid "Localization Language"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:303
+msgid ""
+"Note: This setting sets localization language to google map. The language "
+"affects the names of controls, copyright notices, driving directions, and "
+"control labels. "
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:358
+msgid "Business Reviews"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:369
+msgid "Google Places API Key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:373
+msgid ""
+"Note: This setting is required if you wish to use Google Places Reviews in "
+"your website. "
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:393
+msgid "Enter Google Places API Key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:407
+msgid ""
+"Google now requires an active billing account associated with your API Key. "
+"To enable billing click "
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:414
+msgid "here!"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:429
+msgid "Yelp API Key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:433
+msgid ""
+"Note: This setting is required if you wish to use Yelp Reviews in your "
+"website. "
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:453
+msgid "Enter Yelp API Key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:482
+msgid "Setup reCAPTCHA v3"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:493
+msgid "reCAPTCHA v3"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:495
+msgid ""
+" is a free service by Google that protects your website from spam and "
+"abuse. It does this while letting your valid users pass through with ease. "
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:526
+msgid "Enter reCAPTCHA v3 Key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:557
+msgid "Enter reCAPTCHA v3 Secret Key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:576
+msgid "Score Threshold"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:587
+msgid "Enter reCAPTCHA v3 Score"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:617
+msgid "Setup Cloudflare Turnstile"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:621
+msgid "Note: "
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:628
+msgid "Cloudflare Turnstile"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:630
+msgid ""
+" is a privacy-first alternative to CAPTCHA that protects your website from "
+"spam and abuse. "
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:650
+msgid "Site key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:660
+msgid "Enter Cloudflare Turnstile Site Key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:678
+msgid "Secret key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:688
+msgid "Enter Cloudflare Turnstile Secret Key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:716
+msgid "Login Form"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:727
+msgid "Google Client ID"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:751
+msgid "Enter Google Client ID"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:771
+msgid "Facebook App Details"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:775
+msgid ""
+"Note: This setting is required if you wish to use Login with Google in your "
+"website. "
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:807
+msgid "Enter Facebook App ID"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:837
+msgid "Enter Facebook App Secret"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:868
+msgid "Social Share"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:879
+msgid "Facebook Access Token"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:883
+msgid ""
+"Note: This setting is required if you wish to fetch share count of your "
+"post/page from Facebook. "
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:932
+msgid "MaxMind Geolocation"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:936
+msgid ""
+"Note: An integration for utilizing MaxMind to do Geolocation lookups. "
+"Please note that this integration will only do Country lookups. "
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:957
+msgid "License Key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:967
+msgid "Enter MaxMind License Key"
+msgstr ""
+
+#: src/Components/Settings/Integrations.jsx:987
+msgid "Database File Path"
+msgstr ""
+
+#: src/Components/Settings/MyAccount.jsx:106
+#: src/Components/Settings/Settings.jsx:33
+msgid "My Account"
+msgstr ""
+
+#: src/Components/Settings/PostSkins.jsx:158
+#: src/Components/Settings/Settings.jsx:134
+msgid "Post Widget Skins"
+msgstr ""
+
+#: src/Components/Settings/PostSkins.jsx:57
+msgid "All skins activated successfully!."
+msgstr ""
+
+#: src/Components/Settings/PostSkins.jsx:60
+msgid "Failed to activate all skins."
+msgstr ""
+
+#: src/Components/Settings/PostSkins.jsx:65
+msgid "An error occurred while activating all skins."
+msgstr ""
+
+#: src/Components/Settings/PostSkins.jsx:87
+msgid "All skins deactivated successfully!."
+msgstr ""
+
+#: src/Components/Settings/PostSkins.jsx:90
+msgid "Failed to deactivate all skins."
+msgstr ""
+
+#: src/Components/Settings/PostSkins.jsx:95
+msgid "An error occurred while deactivating all skins."
+msgstr ""
+
+#: src/Components/Settings/Settings.jsx:113
+msgid "Preferences"
+msgstr ""
+
+#: src/Components/Settings/Settings.jsx:133
+msgid "Skins"
+msgstr ""
+
+#: src/Components/Settings/Settings.jsx:52
+msgid "Editor"
+msgstr ""
+
+#: src/Components/Settings/Settings.jsx:53
+msgid "Theme Support"
+msgstr ""
+
+#: src/Components/Settings/Settings.jsx:72
+msgid "Utilities"
+msgstr ""
+
+#: src/Components/Settings/Settings.jsx:73
+#: src/Components/Settings/VersionControl.jsx:103
+msgid "Version Control"
+msgstr ""
+
+#: src/Components/Settings/ThemeSupport.jsx:136
+msgid "Note:"
+msgstr ""
+
+#: src/Components/Settings/ThemeSupport.jsx:136
+msgid ""
+"If neither option works, please contact your theme author to add support "
+"for this plugin."
+msgstr ""
+
+#: src/Components/Settings/ThemeSupport.jsx:15
+msgid "Option 2"
+msgstr ""
+
+#: src/Components/Settings/ThemeSupport.jsx:16
+msgid ""
+"This option will automatically replace your theme's header and footer files "
+"with custom templates from the plugin. It works with most themes and is "
+"selected by default."
+msgstr ""
+
+#: src/Components/Settings/ThemeSupport.jsx:9
+msgid "Option 1 (Recommended)"
+msgstr ""
+
+#: src/Components/Settings/ThemeSupport.jsx:91
+msgid "Select Option to Add Theme Support"
+msgstr ""
+
+#: src/Components/Settings/UsageTracking.jsx:38
+msgid "Failed to save settings!"
+msgstr ""
+
+#: src/Components/Settings/UsageTracking.jsx:70
+msgid ""
+"Help shape the future of Ultimate Addons for Elementor Pro. Share how you "
+"use the plugin so we can build features that matter, fix issues faster, and "
+"make smarter decisions. "
+msgstr ""
+
+#: src/Components/Settings/UsageTracking.jsx:80
+msgid "Learn More"
+msgstr ""
+
+#: src/Components/Settings/VersionControl.jsx:124
+msgid "Rollback %s to Previous Version"
+msgstr ""
+
+#: src/Components/Settings/VersionControl.jsx:185
+msgid "Are you sure you want to rollback to %s v%s?"
+msgstr ""
+
+#: src/Components/Settings/VersionControl.jsx:227
+msgid "Rollback %s Pro to Previous Version"
+msgstr ""
+
+#: src/Components/Settings/VersionControl.jsx:232
+msgid ""
+"Experiencing an issue with current version? Roll back to a previous version "
+"to help troubleshoot the issue."
+msgstr ""
+
+#: src/Components/Settings/VersionControl.jsx:287
+msgid "Rollback to Previous Version"
+msgstr ""
+
+#: src/Components/Settings/VersionControl.jsx:297
+msgid "Rollback"
+msgstr ""
+
+#: src/Components/Settings/VersionControl.jsx:300
+msgid "Cancel"
+msgstr ""
+
+#: src/Components/Settings/VersionControl.jsx:329
+msgid "Enable Beta Version"
+msgstr ""
+
+#: src/Components/Settings/VersionControl.jsx:333
+msgid ""
+"Turn this on to get notified when a new beta version of %s is available. "
+"The beta version will not install automatically. You will need to install "
+"it manually. We recommend using it only in a test environment."
+msgstr ""
+
+#: src/Components/Settings/VersionControl.jsx:341
+msgid "Please read "
+msgstr ""
+
+#: src/Components/Settings/VersionControl.jsx:348
+msgid "this article"
+msgstr ""
+
+#: src/Components/Settings/VersionControl.jsx:350
+msgid " to know more."
+msgstr ""
+
+#: src/Components/Widgets/Features/FeatureWidgets.jsx:165
+msgid "Widgets / Features"
+msgstr ""
+
+#: src/Components/Widgets/Features/FeatureWidgets.jsx:177
+msgid "Search..."
+msgstr ""
+
+#: src/Components/Widgets/Features/FeatureWidgets.jsx:195
+msgid "Click here to activate all widgets & extensions."
+msgstr ""
+
+#: src/Components/Widgets/Features/FeatureWidgets.jsx:221
+msgid "Click here to deactivate all unused widgets, except Extensions."
+msgstr ""
+
+#: src/Components/Widgets/Features/FeatureWidgets.jsx:240
+msgid "Deactivate Unused"
+msgstr ""
+
+#: src/Components/Widgets/Features/FeatureWidgets.jsx:247
+msgid "Deactivate All "
+msgstr ""
+
+#: src/Components/Widgets/Features/FeatureWidgetsOnboarding.jsx:155
+msgid "Customize Your UAE Setup"
+msgstr ""
+
+#: src/Components/Widgets/Features/FeatureWidgetsOnboarding.jsx:158
+msgid "Activate only what you need to keep your website fast and optimized."
+msgstr ""
+
+#: src/command-palette.js:37
+msgid "Dashboard Settings Elementor"
+msgstr ""
+
+#: src/command-palette.js:47
+msgid " > Widgets"
+msgstr ""
+
+#: src/command-palette.js:48
+msgid "Widgets Elements Enable Disable"
+msgstr ""
+
+#: src/command-palette.js:58
+msgid " > Integrations"
+msgstr ""
+
+#: src/command-palette.js:59
+msgid "Integrations API Settings Google Facebook Recaptcha"
+msgstr ""
+
+#: src/command-palette.js:70
+msgid " > Knowledge Base"
+msgstr ""
+
+#: src/command-palette.js:71
+msgid "Help Documentation Docs Knowledge Base"
+msgstr ""
+
+#: src/command-palette.js:83
+msgid "Go to: "
+msgstr ""
+
+#: src/command-palette.js:83
+msgid " > Support"
+msgstr ""
+
+#: src/command-palette.js:84
+msgid "Support Help Ticket Contact"
+msgstr ""
